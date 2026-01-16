@@ -1,0 +1,3 @@
+-- Crop Production & Yield Analysis
+-- Dataset: India crop production data
+-- This file contains SQL queries for crop-wise and region-wise analysis
